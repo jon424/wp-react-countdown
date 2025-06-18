@@ -5,7 +5,7 @@ Easily add a countdown to any page or post using a shortcode, and redirect users
 
 This project also serves as a good boilerplate or starting point to create your own WordPress plugin(s) using React!
 
-![Activate Plugin](activate-plugin.PNG)
+![Countdown Example](countdown-example.gif)
 
 ---
 
